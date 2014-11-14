@@ -1,7 +1,7 @@
   {cyan}{bold}
   HELPFUL THINGS{/bold}{/cyan}
   
-  - Get stuck? Find an error? File and issue at:
+  - Get stuck? Find an error? File an issue at:
   {bold}github.com/jlord/git-it{/bold}
 
   {cyan}
@@ -32,7 +32,7 @@
 
   $ git diff
 
-  {bold}Add a file's changes to be commited{/bold}
+  {bold}Add a file's changes to be committed{/bold}
 
   $ git add <FILENAME>
 
