@@ -97,7 +97,7 @@
   
   $ cd ..
   
-  {bold}Back out all the way to the root directory{/bold}
+  {bold}Navigate into your home directory{/bold}
   
   $ cd
 
